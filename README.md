@@ -1,4 +1,4 @@
-<img width="1916" height="917" alt="image" src="./src/assets/image.png" />
+<img width="1916" height="917" alt="image" src="./Frontend/src/assets/image.png" />
 
 
 
