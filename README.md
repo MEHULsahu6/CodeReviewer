@@ -1,4 +1,4 @@
-<img width="1916" height="917" alt="image" src="/src/assets/Screenshot 2025-10-04 200236.png" />
+<img width="1916" height="917" alt="image" src="./src/assets/Screenshot 2025-10-04 200236.png" />
 
 
 
