@@ -32,7 +32,7 @@ Detail the technologies used to build and run the project.
 
 Category	Technology	Description
 Frontend	React.	The primary library/framework for the user interface.
-Backend	Node.js,
+Backend	Node.js
 Styling	 CSS
 
 
@@ -53,7 +53,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/MEHULsahu6/CodeReviewer
+
 cd your-repo-name
 Install dependencies for both the client and server (adjust directory names as needed):
 
@@ -66,9 +67,9 @@ yarn install
 Set up Environment Variables:
 Create a .env file in the root directory (or respective client/server directories) and add your configurations (e.g., database URI, API keys, secret keys).
 
-# .env example
-MONGO_URI=mongodb://localhost:27017/dbname
-JWT_SECRET=yoursecretkey
+# .env 
+GEMINI_API_KEY = your api key
+
 Run the application:
 
 Bash
